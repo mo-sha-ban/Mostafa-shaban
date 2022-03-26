@@ -316,7 +316,7 @@ header .container ul li a {
     letter-spacing: 3px;
     font-size: 15px;
     line-height: 1.6;
-    margin: 10px;
+    margin: 30px auto;
 }
 @media (max-width:767px) {
     .services .container {
