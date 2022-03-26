@@ -250,7 +250,7 @@ header .container ul li a {
         text-align: left;
         margin: 20px auto;
     }
-    .landing .container a {
+    .landing .container > a {
         display: block;
         font-size: 15px;
         margin-left: 60px;
