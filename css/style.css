@@ -412,7 +412,7 @@ header .container ul li a {
 }
 .contact .container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(450px, 600px));
+    grid-template-columns: repeat(auto-fill, minmax(600px, 700px));
     gap: 60px;
     justify-content: center;    
 }
