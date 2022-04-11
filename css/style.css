@@ -378,8 +378,9 @@ header .container ul li a {
 }
 .projects .container .card .info a {
     font-size: 18px;
-    color: blue;
+    color: var(--main-color);
     font-weight: 600;
+    box-shadow: 10px 10px 0px -5px;
 }
 @media (max-width:991px) {
     .projects .container {
